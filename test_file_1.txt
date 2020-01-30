@@ -1,0 +1,5 @@
+one         two       
+----------  ----------
+hello!      10        
+goodbye     20        
+foolish     80        
